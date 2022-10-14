@@ -1,5 +1,5 @@
-<h1 align="center">ANALISES de VENDA</h1>
-<p align="center">Analise de venda sobre um reconde de conjunto de dados aberto</p>
+<h1 align="center">ANALISES DE VENDAS</h1>
+<p align="center">Analise de vendas sobre um recorte de conjunto de dados aberto</p>
 <p>Ferramentas utilizadas:</p>
 <ul>
     <li> <a href="https://www.python.org/downloads/release/python-3810/">Python</a></li>
