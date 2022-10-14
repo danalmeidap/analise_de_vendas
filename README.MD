@@ -9,6 +9,6 @@
 </ul>
 
 
-## Features
+## Características
 - [x] Análise sobre conjunto aberto de dados
 - [x] Geração de gráficos e extração de informações 
