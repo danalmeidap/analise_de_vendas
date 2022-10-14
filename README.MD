@@ -3,7 +3,7 @@
 <p>Ferramentas utilizadas:</p>
 <ul>
     <li> <a href="https://www.python.org/downloads/release/python-3810/">Python</a></li>
-    <li> <a href="https://pandas.pydata.org/docs/">Pandas</a></li
+    <li> <a href="https://pandas.pydata.org/docs/">Pandas</a></li>
     <li> <a href="https://matplotlib.org/stable/users/index.html">matplotlib</a></li>
     
 </ul>
