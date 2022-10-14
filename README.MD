@@ -1,4 +1,4 @@
-<h1 align="center">ANALISES DE VENDAS</h1>
+<h1 align="center">ANALISE DE VENDAS</h1>
 <p align="center">Analise de vendas sobre um recorte de conjunto de dados aberto</p>
 <p>Ferramentas utilizadas:</p>
 <ul>
